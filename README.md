@@ -7,6 +7,15 @@ A full-stack Todo application built using the MERN (MongoDB, Express.js, React.j
 - Frontend: [https://to-do-app-two-sigma.vercel.app/login]
 - Backend: [https://todoappv2-p3xx.onrender.com]
 
+  ##  to run locally
+  - first clone the repository
+  - cd frontend
+  - npm install
+  - npm start
+  - cd backend
+  - npm install
+  - npm start
+
 ## Features
 
 - **User Authentication**
@@ -41,4 +50,4 @@ A full-stack Todo application built using the MERN (MongoDB, Express.js, React.j
 - JWT for authentication
 - Bcrypt for password hashing
 
-## Project Structure
+
